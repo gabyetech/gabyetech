@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gabyetech;
+- 👀 I’m interested in learning new things;
+- 🌱 I’m currently learning javascript, HTML e CSS;
+- 😄 Pronouns: She/her;
